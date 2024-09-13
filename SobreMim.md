@@ -1,11 +1,12 @@
-**Graduando administração**
-Auxiliar de secretório com foco em indicadores
+📚 **Graduando administração**
+
+💻 Auxiliar de secretório com foco em indicadores
 
 
-Sou curiosa por tecnologia e métodos de automação de tarefas, sempre em busca de aprendizado e ideias novas para melhoria. 
+🚀 Sou curiosa por tecnologia e métodos de automação de tarefas, sempre em busca de aprendizado e ideias novas para melhoria. 
 Minhas habilidades incluem criação de Dashboard, planilhas e relatórios.
 
-Atualmente estou aprofundando meus conhecimentos em análises de dados com foco em power bi, SQL e phyton.
+🎲 Atualmente estou aprofundando meus conhecimentos em análises de dados com foco em power bi, SQL e phyton.
 
 **Curiosidades sobre mim**
 
